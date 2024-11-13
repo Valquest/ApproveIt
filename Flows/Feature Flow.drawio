@@ -7,29 +7,29 @@
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-1" target="UVg8xwLe7CxSn3VC2-VT-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1990" y="498.75" />
-              <mxPoint x="-1990" y="498.75" />
+              <mxPoint x="-2070" y="266.25" />
+              <mxPoint x="-2070" y="266.25" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-1" target="UVg8xwLe7CxSn3VC2-VT-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1990" y="478.75" />
-              <mxPoint x="-2120" y="478.75" />
+              <mxPoint x="-2070" y="246.25" />
+              <mxPoint x="-2200" y="246.25" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-1" target="UVg8xwLe7CxSn3VC2-VT-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1990" y="478.75" />
-              <mxPoint x="-1850" y="478.75" />
+              <mxPoint x="-2070" y="246.25" />
+              <mxPoint x="-1930" y="246.25" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UVg8xwLe7CxSn3VC2-VT-1" value="Add approvers" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-2040" y="518.75" width="100" height="50" as="geometry" />
+        <mxCell id="UVg8xwLe7CxSn3VC2-VT-1" value="Add user" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2120" y="286.25" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-47" target="UVg8xwLe7CxSn3VC2-VT-3">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-2" value="ApproveIt" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1305" y="920" width="80" height="30" as="geometry" />
+          <mxGeometry x="-1385" y="687.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-3" target="UVg8xwLe7CxSn3VC2-VT-4">
           <mxGeometry relative="1" as="geometry" />
@@ -46,110 +46,113 @@
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-3" target="UVg8xwLe7CxSn3VC2-VT-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1595" y="600" />
-              <mxPoint x="-1990" y="600" />
+              <mxPoint x="-1675" y="370" />
+              <mxPoint x="-2070" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-47" target="UVg8xwLe7CxSn3VC2-VT-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1595" y="690" />
-              <mxPoint x="-1230" y="690" />
+              <mxPoint x="-1675" y="457.5" />
+              <mxPoint x="-1310" y="457.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-3" value="Add new approval flow" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1645" y="614" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1725" y="381.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-4" target="UVg8xwLe7CxSn3VC2-VT-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1595" y="480" />
-              <mxPoint x="-1670" y="480" />
+              <mxPoint x="-1675" y="247.5" />
+              <mxPoint x="-1750" y="247.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-4" target="UVg8xwLe7CxSn3VC2-VT-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1595" y="480" />
-              <mxPoint x="-1520" y="480" />
+              <mxPoint x="-1675" y="247.5" />
+              <mxPoint x="-1600" y="247.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-4" value="Add pdf file" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1645" y="518.75" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1725" y="286.25" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-8" value="Notify when others approve?" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1280" y="418" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1360" y="170" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-9" target="UVg8xwLe7CxSn3VC2-VT-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-9" value="To send reminders?" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1170" y="418" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1250" y="170" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-55" target="UVg8xwLe7CxSn3VC2-VT-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1230" y="727" as="sourcePoint" />
+            <mxPoint x="-1500" y="494.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-534" y="700" />
-              <mxPoint x="-370" y="700" />
+              <mxPoint x="-1010" y="467.5" />
+              <mxPoint x="-846" y="467.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-11" target="UVg8xwLe7CxSn3VC2-VT-35">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1070" y="640" as="sourcePoint" />
+            <mxPoint x="-1150" y="407.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-11" target="UVg8xwLe7CxSn3VC2-VT-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-960" y="660" as="sourcePoint" />
+            <mxPoint x="-1040" y="427.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1230" y="596" />
-              <mxPoint x="-830" y="596" />
+              <mxPoint x="-1310" y="367.5" />
+              <mxPoint x="-1160" y="367.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-11" value="Settings" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1280" y="611.5" width="100" height="52.5" as="geometry" />
+          <mxGeometry x="-1360" y="379" width="100" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-15" value="Notify when others approve?" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-2040" y="400" width="100" height="50" as="geometry" />
+          <mxGeometry x="-2120" y="167.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-16" value="Send reminders every x hours" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1900" y="302.5" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1980" y="70" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-17" target="UVg8xwLe7CxSn3VC2-VT-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-17" value="To send reminders?" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1900" y="400" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1980" y="167.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UVg8xwLe7CxSn3VC2-VT-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-20" target="UVg8xwLe7CxSn3VC2-VT-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-20" value="Name, email, approve/review,&amp;nbsp;" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-2170" y="400" width="100" height="50" as="geometry" />
+          <mxGeometry x="-2250" y="167.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-25" value="Approve/Deny notes" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="614" width="100" height="50" as="geometry" />
+          <mxGeometry x="-896" y="371.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-28" value="Add multiple files" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1720" y="400" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1800" y="167.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-30" value="Add word, excel, images other file format" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1570" y="400" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1650" y="167.5" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UVg8xwLe7CxSn3VC2-VT-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#4C0099;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-33" target="UVg8xwLe7CxSn3VC2-VT-60">
+        <mxCell id="UVg8xwLe7CxSn3VC2-VT-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#4C0099;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-33" target="UVg8xwLe7CxSn3VC2-VT-60">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1220" y="313.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-680" y="546" />
-              <mxPoint x="-680" y="639" />
+              <mxPoint x="-1010" y="311.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-33" value="Visual approval flow" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-880" y="520.5" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1210" y="286.25" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-35" target="UVg8xwLe7CxSn3VC2-VT-8">
           <mxGeometry relative="1" as="geometry" />
@@ -157,47 +160,51 @@
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-35" target="UVg8xwLe7CxSn3VC2-VT-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1230" y="495.5" />
-              <mxPoint x="-1120" y="495.5" />
+              <mxPoint x="-1310" y="263" />
+              <mxPoint x="-1200" y="263" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-35" value="General notification settings" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1280" y="520.5" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1360" y="288" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-42" value="Send reminders every x hours" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1170" y="318" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1250" y="70" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-47" value="Admin UI" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1645" y="720" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1725" y="487.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-52" target="UVg8xwLe7CxSn3VC2-VT-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1265" y="800" />
-              <mxPoint x="-1595" y="800" />
+              <mxPoint x="-1345" y="567.5" />
+              <mxPoint x="-1675" y="567.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-52" target="UVg8xwLe7CxSn3VC2-VT-55">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-800" y="557.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1265" y="800" />
-              <mxPoint x="-534" y="800" />
+              <mxPoint x="-1345" y="567.5" />
+              <mxPoint x="-1010" y="567.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-52" value="Login/Signup" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1315" y="820" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1395" y="587.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UVg8xwLe7CxSn3VC2-VT-55" target="UVg8xwLe7CxSn3VC2-VT-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-55" value="Approver /Reviewer UI" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-584" y="730" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1060" y="487.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UVg8xwLe7CxSn3VC2-VT-60" value="Visual approval flow" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-584" y="614" width="100" height="50" as="geometry" />
+          <mxGeometry x="-1060" y="371.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UVg8xwLe7CxSn3VC2-VT-67" value="Does reviewer pause the flow?" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2250" y="70" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
